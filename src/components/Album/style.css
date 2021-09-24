@@ -1,12 +1,13 @@
 .album-container {
   width: 220px;
   height: 320px;
-  background-color: rgb(44, 44, 44);
+  background-color: rgb(36, 36, 36);
   padding: 10px 5px;
   color: white;
   text-align: center;
   border-radius: 5px;
-  box-shadow: 1px 1px 5px black;
+  box-shadow: 5px 5px 10px rgb(80, 77, 77);
+  margin: 10px 10px;
 }
 
 .text-container {
@@ -18,13 +19,10 @@
   width: 200px;
 }
 
-.play-btn {
+/* .play-btn {
   width: 60px;
   height: 60px;
   border-radius: 50%;
   border: none;
-  position: fixed;
-  top: 29%;
-  left: 53%;
   background-color: rgb(82, 219, 82);
-}
+} */
